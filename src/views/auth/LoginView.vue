@@ -13,7 +13,7 @@ const { mobile } = useDisplay()
           <v-card class="mx-auto mt-16" elevation="24">
             <v-card-title class="text-center">
               <v-img
-                class="mx-auto"
+                class="mx-auto rounded-circle"
                 src="/public/images/logocq.jpg"
                 :width="mobile ? '75%' : '25%'"
               ></v-img>
