@@ -1,5 +1,5 @@
 <script setup>
-import AppLayout from '@/components/Layout/AppLayout.vue'
+import AppLayout from '@/components/layout/AppLayout.vue'
 import RegisterForm from '@/components/auth/RegisterForm.vue'
 </script>
 
