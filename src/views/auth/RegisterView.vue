@@ -15,7 +15,7 @@ const { mobile } = useDisplay()
             <v-card-title class="text-center">
               <v-img
                 class="mx-auto rounded-circle"
-                src="/public/images/logocq.jpg"
+                src="/images/logocq.jpg"
                 :width="mobile ? '75%' : '25%'"
               ></v-img>
               <h3 class="font-weight-black">Campus Quest</h3>
