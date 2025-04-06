@@ -66,7 +66,10 @@ import RegisterForm from '@/components/auth/RegisterForm.vue'
             <v-divider class="my-5"></v-divider>
 
             <h5 class="text-center">
-              Already have account? <RouterLink to="/">Click here to Login</RouterLink>
+              Already have account?
+              <RouterLink class="text-deep-orange-lighten-1 font-weight-black" to="/"
+                >Click here to Login</RouterLink
+              >
             </h5>
           </v-card-text>
         </v-card>
