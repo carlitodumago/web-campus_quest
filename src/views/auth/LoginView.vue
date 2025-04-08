@@ -70,7 +70,7 @@ const step = ref(1)
                         <v-card-text class="white--text">
                           <h3 class="text-center">Don't Have an Account Yet?</h3>
                           <h6 class="text-center">
-                            Let's get you all set up so you can start creating your your first<br />
+                            Let's get you all set up so you can start creating your first<br />
                             onboarding experience
                           </h6>
                         </v-card-text>
